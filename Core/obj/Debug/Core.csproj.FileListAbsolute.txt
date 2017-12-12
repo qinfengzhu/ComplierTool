@@ -1,0 +1,5 @@
+F:\git-projects-me\ComplierTool\ComplierTool\Core\bin\Debug\Core.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core\bin\Debug\Core.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\Core\obj\Debug\Core.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core\obj\Debug\Core.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Core.Test.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Core.Test.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\nunit.framework.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\nunit.framework.xml
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\obj\Debug\Core.Test.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\obj\Debug\Core.Test.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Project\ConfigResourceValue.xml
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Project\Configs\AppSettings.config.tpl
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Project\Configs\ConnectionStrings.config.tpl
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Core.Test.dll.config
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Core.dll
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\bin\Debug\Core.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\Core.Test\obj\Debug\Core.Test.csprojResolveAssemblyReference.cache

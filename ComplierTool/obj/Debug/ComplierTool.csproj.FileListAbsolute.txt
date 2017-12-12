@@ -1,0 +1,8 @@
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\bin\Debug\ComplierTool.exe.config
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\bin\Debug\ComplierTool.exe
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\bin\Debug\ComplierTool.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\bin\Debug\Core.dll
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\bin\Debug\Core.pdb
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\obj\Debug\ComplierTool.csprojResolveAssemblyReference.cache
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\obj\Debug\ComplierTool.exe
+F:\git-projects-me\ComplierTool\ComplierTool\ComplierTool\obj\Debug\ComplierTool.pdb

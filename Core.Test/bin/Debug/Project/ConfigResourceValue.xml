@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigResourceValueRoot>
+  <Environments>
+    <Environment Name="Development"/> 
+    <Environment Name="Testing"/>
+    <Environment Name="PreOnline"/>
+    <Environment Name="Online"/>
+  </Environments>
+  <ConfigResourceValues>
+    <!--开发环境-->
+    <Development>
+      <defaultConnection>Data Source=192.168.111.101;Initial Catalog=CTS;Integrated Security=false;User ID=sa;Password=Abcd1234</defaultConnection>
+      <defaultAuthConnection>Data Source=127.0.0.1;Initial Catalog=WetrialAuth;Integrated Security=false;User ID=sa;Password=Aa111111</defaultAuthConnection>
+      <domain>wetrial.com</domain>
+      <authorizePath>/OAuth/Authorize</authorizePath>
+      <tokenPath>/OAuth/Token</tokenPath>
+      <allowInsecureHttp>true</allowInsecureHttp>
+      <loginPathController>Account</loginPathController>
+    </Development>
+    <!--测试环境-->
+    <Testing>
+      <defaultConnection>Data Source=192.168.111.101;Initial Catalog=CTS;Integrated Security=false;User ID=sa;Password=Abcd1234</defaultConnection>
+      <defaultAuthConnection>Data Source=127.0.0.1;Initial Catalog=WetrialAuth;Integrated Security=false;User ID=sa;Password=Aa111111</defaultAuthConnection>
+      <domain>wetrial.com</domain>
+      <authorizePath>/OAuth/Authorize</authorizePath>
+      <tokenPath>/OAuth/Token</tokenPath>
+      <allowInsecureHttp>true</allowInsecureHttp>
+      <loginPathController>Account</loginPathController>
+    </Testing>
+    <!--上线前环境-->
+    <PreOnline>
+      <defaultConnection>Data Source=192.168.111.101;Initial Catalog=CTS;Integrated Security=false;User ID=sa;Password=Abcd1234</defaultConnection>
+      <defaultAuthConnection>Data Source=127.0.0.1;Initial Catalog=WetrialAuth;Integrated Security=false;User ID=sa;Password=Aa111111</defaultAuthConnection>
+      <domain>wetrial.com</domain>
+      <authorizePath>/OAuth/Authorize</authorizePath>
+      <tokenPath>/OAuth/Token</tokenPath>
+      <allowInsecureHttp>true</allowInsecureHttp>
+      <loginPathController>Account</loginPathController>
+    </PreOnline>
+    <!--线上环境-->
+    <Online>
+      <defaultConnection>Data Source=192.168.111.101;Initial Catalog=CTS;Integrated Security=false;User ID=sa;Password=Abcd1234</defaultConnection>
+      <defaultAuthConnection>Data Source=127.0.0.1;Initial Catalog=WetrialAuth;Integrated Security=false;User ID=sa;Password=Aa111111</defaultAuthConnection>
+      <domain>wetrial.com</domain>
+      <authorizePath>/OAuth/Authorize</authorizePath>
+      <tokenPath>/OAuth/Token</tokenPath>
+      <allowInsecureHttp>true</allowInsecureHttp>
+      <loginPathController>Account</loginPathController>
+    </Online>
+  </ConfigResourceValues>
+</ConfigResourceValueRoot>
