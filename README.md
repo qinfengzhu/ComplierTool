@@ -2,6 +2,8 @@
 
 ComplierTool 产生Config文件的工具。主要是解决一个项目要在几个环境之间进行切换，然后配置文件老是进行人工的修改调整，ComplierTool 默认支持`Development`,`Testing`,`PreOnline`,`Online`四个环境，即开发、测试、预上线、线上。
 
+[下载ComplierTool](BinaryZipForWindows/ComplierTool.rar)
+
 # ComplierTool 在项目中的使用
 
 * 项目结构图，框了红圈的是必须的内容
